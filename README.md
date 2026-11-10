@@ -24,7 +24,7 @@ Access is by invitation. If the sign-in page says your account has no permission
 
 ## Privacy Policy
 
-Full policy: https://capitalflow.co.il/privacy?lang=en. In short: the assistant receives only what the tools return, which goes to Anthropic under its own terms; CapitalFlow logs the read requests made in your name, does not sell personal data, and deletes account data on request.
+Full policy: https://capitalflow.co.il/privacy?lang=en In short: the assistant receives only what the tools return, which goes to Anthropic under its own terms; CapitalFlow logs the read requests made in your name, does not sell personal data, and deletes account data on request.
 
 Terms of use: https://capitalflow.co.il/terms?lang=en
 
