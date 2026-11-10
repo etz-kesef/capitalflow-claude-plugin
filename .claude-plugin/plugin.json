@@ -1,0 +1,9 @@
+{
+  "name": "capitalflow",
+  "version": "1.0.0",
+  "description": "Read-only access to CapitalFlow: Tel Aviv Stock Exchange securities, prices, MAYA report summaries and your own watchlist, from Claude.",
+  "author": { "name": "CapitalFlow", "url": "https://capitalflow.co.il" },
+  "homepage": "https://capitalflow.co.il",
+  "license": "MIT",
+  "keywords": ["finance", "tase", "israel", "stocks", "reports"]
+}

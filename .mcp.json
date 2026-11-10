@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "capitalflow": {
+      "type": "http",
+      "url": "https://api.capitalflow.co.il/agent/mcp"
+    }
+  }
+}
